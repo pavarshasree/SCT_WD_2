@@ -30,11 +30,11 @@ Build an interactive stopwatch web application using HTML, CSS, and JavaScript t
 
 ## Live Demo
 
-(Add your GitHub Pages link here)
+https://pavarshasree.github.io/SCT_WD_2/
 
 ## GitHub Repository
 
-(Add your repository link here)
+https://github.com/pavarshasree/SCT_WD_2
 
 ## Author
 
